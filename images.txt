@@ -1,5 +1,1 @@
-nginx
-
-shawntranter/centos7:latest
-
-nyuadcorebio/nasqarall
+nyuadcorebio/nasqarall:nasqar
