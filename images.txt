@@ -2,4 +2,4 @@ nginx
 
 shawntranter/centos7:latest
 
-nyuadcorebio/nasqarall:nasqar
+nyuadcorebio/nasqarall
