@@ -1,1 +1,1 @@
-nyuadcorebio/nasqarall:nasqar
+grobid/grobid:0.8.1
