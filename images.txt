@@ -1,1 +1,2 @@
-grobid/grobid:0.8.1
+lfoppiano/grobid:latest-develop
+
