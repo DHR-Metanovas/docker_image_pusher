@@ -1,2 +1,2 @@
-lfoppiano/grobid:latest-develop
+neo4j:4.4.11
 
